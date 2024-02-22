@@ -1,0 +1,7 @@
+https://github.com/zovt/tea
+# https://tea.xyz/what-is-this-file
+---
+version: 1.0.0
+codeOwners:
+  - '0x2Db8Cbd3c35d33ea526e1AF75Ea2031dDBe0F6ef'
+quorum: 1
